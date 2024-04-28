@@ -1,0 +1,18 @@
+{
+    "error": false,
+    "version": "fourteen",
+    "ota_version": "QuantumOS_lunaa-14.0-20240110-1232-STABLE.zip",
+    "filename": "QuantumOS_lunaa-14.0-20240110-1232-STABLE.zip",
+    "datetime": 1704889953,
+    "size": 2950833319,
+    "url": "https://sourceforge.net/projects/quantumos/files/QuantumOS-AOSP/QuantumOS_lunaa-14.0-20240110-1232-STABLE.zip",
+    "github_releases_url": "https://sourceforge.net/projects/quantumos/files/QuantumOS-AOSP/QuantumOS_lunaa-14.0-20240110-1232-STABLE.zip",
+    "filehash": "48947bfd1e94c450933ffb8902e7aaef",
+    "id": "48947bfd1e94c450933ffb8902e7aaef",
+    "maintainers": [
+        {
+            "github_username": "SecureByte00",
+            "name": "Chirantan"
+        }
+    ]
+}
