@@ -1,14 +1,14 @@
 {
     "error": false,
-    "version": "fourteen",
-    "ota_version": "QuantumOS_lunaa-14.0-20240110-1232-STABLE.zip",
-    "filename": "QuantumOS_lunaa-14.0-20240110-1232-STABLE.zip",
-    "datetime": 1704889953,
-    "size": 2950833319,
-    "url": "https://sourceforge.net/projects/quantumos/files/QuantumOS-AOSP/QuantumOS_lunaa-14.0-20240110-1232-STABLE.zip",
-    "github_releases_url": "https://sourceforge.net/projects/quantumos/files/QuantumOS-AOSP/QuantumOS_lunaa-14.0-20240110-1232-STABLE.zip",
-    "filehash": "48947bfd1e94c450933ffb8902e7aaef",
-    "id": "48947bfd1e94c450933ffb8902e7aaef",
+    "version": "UltraCosmic",
+    "ota_version": "NeutronOS_UltraCosmic~lunaa-14.0-20240512-0841.zip",
+    "filename": "NeutronOS_UltraCosmic~lunaa-14.0-20240512-0841.zip",
+    "datetime": 1715503271,
+    "size": 2725068069,
+    "url": "",
+    "github_releases_url": "",
+    "filehash": "a13fbb9eb535d179276b3a6ee87078ca",
+    "id": "a13fbb9eb535d179276b3a6ee87078ca",
     "maintainers": [
         {
             "github_username": "SecureByte00",
