@@ -1,19 +1,19 @@
 {
     "error": false,
     "version": "UltraCosmic",
-    "ota_version": "NeutronOS_UltraCosmic~lunaa-14.0-20240512-0841.zip",
-    "filename": "NeutronOS_UltraCosmic~lunaa-14.0-20240512-0841.zip",
-    "datetime": 1715503271,
-    "size": 2725068069,
-    "url": "",
-    "github_releases_url": "",
-    "filehash": "a13fbb9eb535d179276b3a6ee87078ca",
-    "id": "a13fbb9eb535d179276b3a6ee87078ca",
-    "github_username": "SecureByte00",
+    "ota_version": "NeutronOS_UltraCosmic~lunaa-14.0-20240912-0805-SIGNED.zip",
+    "filename": "NeutronOS_UltraCosmic~lunaa-14.0-20240912-0805-SIGNED.zip",
+    "datetime": 1726128313,
+    "size": 3099326629,
+    "url": "https://sourceforge.net/projects/neutronos-aosp/files/NeutronOS_UltraCosmic~lunaa-14.0-20240912-0805-SIGNED.zip/download",
+    "github_releases_url": "https://sourceforge.net/projects/neutronos-aosp/files/NeutronOS_UltraCosmic~lunaa-14.0-20240912-0805-SIGNED.zip/download",
+    "filehash": "07bfc03bb7442cad224f562ef59ba4dd",
+    "id": "07bfc03bb7442cad224f562ef59ba4dd",
+    "github_username": "0xSecureByte",
     "name": "Chirantan",
     "maintainers": [
         {
-            "github_username": "SecureByte00",
+            "github_username": "0xSecureByte",
             "name": "Chirantan"
         }
     ]
